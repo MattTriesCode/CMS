@@ -17,6 +17,8 @@
 <p>This is a body paragraph.  We will include some files
   above and below this using PHP.</p>
 
+  <p>This is a paragraph I added from Atom!</p>
+
 <?php
   include 'footer.php';
 ?>
